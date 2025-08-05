@@ -66,7 +66,7 @@ input_img_path = 'path/to/your/test_polygon.png'
 color_name = 'yellow' # or 'green', etc.
 enhanced_predict(model, colors, input_img_path, color_name)
 ```
-
+<img src="[https://github.com/jainrishi601/Ayna_Assignment/blob/main/Screenshot%202025-08-05%20235638.png](https://github.com/jainrishi601/Ayna_Assignment/blob/main/Screenshot%202025-08-06%20000328.png)" style="height:200px;margin-right:100px"/>
 
 ### 4. Results
 
@@ -97,7 +97,7 @@ Qualitative outputs show sharp, high-fidelity fills, with predicted RGB values v
 - Achieved strong quantitative (loss < 0.012) and qualitative results
 - All code robust, documented, ready for both training and inference
 
-**For further questions or issues, contact [vatsa@getayna.com](mailto:vatsa@getayna.com)**
+
 
 ---
 
