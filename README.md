@@ -66,7 +66,7 @@ input_img_path = 'path/to/your/test_polygon.png'
 color_name = 'yellow' # or 'green', etc.
 enhanced_predict(model, colors, input_img_path, color_name)
 ```
-<img src="[https://github.com/jainrishi601/Ayna_Assignment/blob/main/Screenshot%202025-08-05%20235638.png](https://github.com/jainrishi601/Ayna_Assignment/blob/main/Screenshot%202025-08-06%20000328.png)" style="height:200px;margin-right:100px"/>
+<img src="https://github.com/jainrishi601/Ayna_Assignment/blob/main/Screenshot%202025-08-06%20000328.png" style="height:200px;margin-right:100px"/>
 
 ### 4. Results
 
