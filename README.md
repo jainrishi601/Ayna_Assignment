@@ -1,8 +1,4 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" style="height:64px;margin-right:32px"/>
 
-# complete reaadme code
-
-Here’s a complete **README.md** tailored to your Polygon Colorization UNet project, including code usage instructions, dependencies, how to reproduce results, and a brief insight section bolstered with references to the images you've generated.
 
 # Polygon Colorization UNet
 
