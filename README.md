@@ -1,4 +1,4 @@
-
+<img src="https://github.com/jainrishi601/Ayna_Assignment/blob/main/Screenshot%202025-08-05%20235638.png" style="height:64px;margin-right:32px"/>
 
 # Polygon Colorization UNet
 
