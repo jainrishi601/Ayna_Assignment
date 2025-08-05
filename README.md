@@ -22,7 +22,7 @@ Below are sample qualitative results:
     - `dataset/training/data.json` (input/output/color mappings)
     - `dataset/validation/inputs/`, `outputs/`, `data.json` (for validation)
 - **Download**:
-[Google Drive Link]([https://drive.google.com/open?id=1QXLgo3ZfQPorGwhYVmZUEWO_sU3i1pHM](https://drive.google.com/drive/folders/1DDxOXaxGYkkrkpHnGuKYJpkJ5UBMFjGD?usp=sharing))
+[Google Drive Link](https://drive.google.com/open?id=1QXLgo3ZfQPorGwhYVmZUEWO_sU3i1pHM](https://drive.google.com/drive/folders/1DDxOXaxGYkkrkpHnGuKYJpkJ5UBMFjGD?usp=sharing)
 
 
 ## Model Architecture
